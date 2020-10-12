@@ -1,0 +1,21 @@
+.login {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.login > img {
+  width: 50%;
+  margin: auto;
+}
+
+.login > a {
+  margin-bottom: 100px;
+  padding: 20px;
+  background-color: #1db954;
+  border-radius: 30px;
+  color: white;
+  text-decoration: none;
+}
